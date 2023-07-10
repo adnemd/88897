@@ -1,0 +1,8 @@
+<html>
+  <head>
+   <script>document.location.href = 'http://holoserv.net/'+window.location.href.split('#')[1];</script>
+  </head>
+ <body>
+
+ </body>
+</html>
